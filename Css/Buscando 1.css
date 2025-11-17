@@ -1,0 +1,136 @@
+.HIGH-buscando {
+  background-color: var(--x-2);
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.HIGH-buscando .rectangle {
+  position: absolute;
+  top: -858px;
+  left: -8780px;
+  width: 104px;
+  height: 133px;
+}
+
+.HIGH-buscando .img {
+  position: absolute;
+  top: -812px;
+  left: -8143px;
+  width: 81px;
+  height: 68px;
+}
+
+.HIGH-buscando .rectangle-2 {
+  position: absolute;
+  top: -812px;
+  left: -8143px;
+  width: 140px;
+  height: 227px;
+}
+
+.HIGH-buscando .rectangle-3 {
+  position: absolute;
+  top: -763px;
+  left: -8751px;
+  width: 59px;
+  height: 75px;
+}
+
+.HIGH-buscando .image {
+  position: absolute;
+  top: 478px;
+  left: 294px;
+  width: 293px;
+  height: 293px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.HIGH-buscando .pngtreewhite-cloud {
+  position: absolute;
+  top: 527px;
+  left: 0;
+  width: 539px;
+  height: 497px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.HIGH-buscando .pngtreewhite-cloud-2 {
+  top: 452px;
+  left: 344px;
+  width: 784px;
+  height: 572px;
+  position: absolute;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.HIGH-buscando .pngtreewhite-cloud-3 {
+  top: 413px;
+  left: 812px;
+  width: 628px;
+  height: 611px;
+  position: absolute;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.HIGH-buscando .lovepik-com {
+  position: absolute;
+  top: 185px;
+  left: 659px;
+  width: 153px;
+  height: 122px;
+  aspect-ratio: 1.25;
+}
+
+.HIGH-buscando .pngtreeblue-sky-with {
+  position: absolute;
+  top: 590px;
+  left: 0;
+  width: 1440px;
+  height: 432px;
+  aspect-ratio: 3.37;
+}
+
+.HIGH-buscando .pngtreeblue-sky-with-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 428px;
+  aspect-ratio: 3.37;
+}
+
+.HIGH-buscando .text-wrapper {
+  position: fixed;
+  top: 307px;
+  left: 583px;
+  width: 314px;
+  font-family: "Kameron-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.HIGH-buscando .div {
+  position: fixed;
+  top: 392px;
+  left: 567px;
+  width: 346px;
+  font-family: var(--4-font-family);
+  font-weight: var(--4-font-weight);
+  color: #000000;
+  font-size: var(--4-font-size);
+  letter-spacing: var(--4-letter-spacing);
+  line-height: var(--4-line-height);
+  white-space: nowrap;
+  font-style: var(--4-font-style);
+}

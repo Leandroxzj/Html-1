@@ -1,0 +1,362 @@
+.high-carrinho-vazio {
+  background-color: var(--x-2);
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 828px;
+  position: relative;
+}
+
+.high-carrinho-vazio .line {
+  top: 161px;
+  height: 7px;
+  position: absolute;
+  left: 113px;
+  width: 1236px;
+}
+
+.high-carrinho-vazio .rectangle {
+  position: absolute;
+  top: -5686px;
+  left: -6981px;
+  width: 104px;
+  height: 133px;
+}
+
+.high-carrinho-vazio .img {
+  position: absolute;
+  top: -5639px;
+  left: -6344px;
+  width: 140px;
+  height: 227px;
+}
+
+.high-carrinho-vazio .rectangle-2 {
+  position: absolute;
+  top: -5590px;
+  left: -6952px;
+  width: 59px;
+  height: 75px;
+}
+
+.high-carrinho-vazio .line-2 {
+  top: 741px;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  left: 113px;
+  width: 1236px;
+}
+
+.high-carrinho-vazio .linkedin {
+  position: absolute;
+  top: 770px;
+  left: 79px;
+  width: 30px;
+  height: 30px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .twitter {
+  position: absolute;
+  top: 770px;
+  left: 136px;
+  width: 30px;
+  height: 30px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .whatsapp {
+  position: absolute;
+  top: 770px;
+  left: 193px;
+  width: 30px;
+  height: 30px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .instagram {
+  position: absolute;
+  top: 770px;
+  left: 250px;
+  width: 30px;
+  height: 30px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .text-wrapper {
+  position: absolute;
+  top: 4685px;
+  left: 1094px;
+  width: 59px;
+  font-family: var(--5-font-family);
+  font-weight: var(--5-font-weight);
+  color: var(--x-3);
+  font-size: var(--5-font-size);
+  letter-spacing: var(--5-letter-spacing);
+  line-height: var(--5-line-height);
+  font-style: var(--5-font-style);
+}
+
+.high-carrinho-vazio .div {
+  position: absolute;
+  top: 208px;
+  left: 531px;
+  width: 421px;
+  font-family: var(--3-font-family);
+  font-weight: var(--3-font-weight);
+  color: #000000;
+  font-size: var(--3-font-size);
+  letter-spacing: var(--3-letter-spacing);
+  line-height: var(--3-line-height);
+  white-space: nowrap;
+  font-style: var(--3-font-style);
+}
+
+.high-carrinho-vazio .image {
+  position: absolute;
+  top: 279px;
+  left: 570px;
+  width: 292px;
+  height: 292px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .ellipse {
+  position: absolute;
+  top: 443px;
+  left: 609px;
+  width: 22px;
+  height: 22px;
+  background-color: var(--x-1);
+  border-radius: 11px;
+}
+
+.high-carrinho-vazio .ellipse-2 {
+  position: absolute;
+  top: 487px;
+  left: 565px;
+  width: 9px;
+  height: 9px;
+  background-color: var(--x-1);
+  border-radius: 4.5px;
+}
+
+.high-carrinho-vazio .ellipse-3 {
+  position: absolute;
+  top: 476px;
+  left: 576px;
+  width: 11px;
+  height: 11px;
+  background-color: var(--x-1);
+  border-radius: 5.5px;
+}
+
+.high-carrinho-vazio .ellipse-4 {
+  position: absolute;
+  top: 460px;
+  left: 590px;
+  width: 16px;
+  height: 16px;
+  background-color: var(--x-1);
+  border-radius: 8px;
+}
+
+.high-carrinho-vazio .pngtreewhite-cloud {
+  position: absolute;
+  top: 307px;
+  left: 122px;
+  width: 598px;
+  height: 521px;
+  aspect-ratio: 1.21;
+}
+
+.high-carrinho-vazio .pngtreewhite-cloud-2 {
+  top: 327px;
+  left: 737px;
+  width: 611px;
+  height: 501px;
+  position: absolute;
+  aspect-ratio: 1.21;
+}
+
+.high-carrinho-vazio .pngtreewhite-cloud-3 {
+  top: 374px;
+  left: 364px;
+  width: 598px;
+  height: 454px;
+  position: absolute;
+  aspect-ratio: 1.21;
+}
+
+.high-carrinho-vazio .image-2 {
+  position: absolute;
+  top: 149px;
+  left: 37px;
+  width: 35px;
+  height: 35px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .rectangle-3 {
+  position: fixed;
+  top: -14px;
+  left: 24px;
+  width: 1392px;
+  height: 160px;
+  background-color: var(--x-3);
+  border-radius: 20px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.high-carrinho-vazio .lovepik-com {
+  position: fixed;
+  top: 18px;
+  left: 475px;
+  width: 138px;
+  height: 110px;
+  aspect-ratio: 1.25;
+}
+
+.high-carrinho-vazio .image-3 {
+  position: fixed;
+  top: 32px;
+  left: 623px;
+  width: 34px;
+  height: 34px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .image-4 {
+  position: fixed;
+  top: 14px;
+  left: 671px;
+  width: 34px;
+  height: 34px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .image-5 {
+  position: fixed;
+  top: 0;
+  left: 708px;
+  width: 46px;
+  height: 46px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .image-6 {
+  position: fixed;
+  top: 2px;
+  left: 763px;
+  width: 46px;
+  height: 46px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .image-7 {
+  position: fixed;
+  top: 5px;
+  left: 817px;
+  width: 47px;
+  height: 47px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .image-8 {
+  position: fixed;
+  top: 27px;
+  left: 872px;
+  width: 52px;
+  height: 52px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .rectangle-4 {
+  position: fixed;
+  top: 0;
+  left: 1150px;
+  width: 290px;
+  height: 146px;
+  background-color: #07b2d9;
+  border-radius: 0px 0px 0px 20px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.high-carrinho-vazio .text-wrapper-2 {
+  position: fixed;
+  top: 64px;
+  left: 616px;
+  width: 306px;
+  font-family: "Kameron-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.high-carrinho-vazio .rectangle-5 {
+  position: fixed;
+  top: 20px;
+  left: 1190px;
+  width: 159px;
+  height: 76px;
+  background-color: var(--x-2);
+  border-radius: 50px;
+}
+
+.high-carrinho-vazio .rectangle-6 {
+  position: fixed;
+  top: 30px;
+  left: 1207px;
+  width: 56px;
+  height: 56px;
+  background-color: #07b2d9;
+  border-radius: 50px;
+}
+
+.high-carrinho-vazio .ellipse-5 {
+  position: fixed;
+  top: 30px;
+  left: 1275px;
+  width: 56px;
+  height: 56px;
+  background-color: #07b2d9;
+  border-radius: 28px;
+}
+
+.high-carrinho-vazio .image-9 {
+  position: fixed;
+  top: 39px;
+  left: 1284px;
+  width: 37px;
+  height: 37px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.high-carrinho-vazio .image-10 {
+  position: fixed;
+  top: 39px;
+  left: 1216px;
+  width: 37px;
+  height: 37px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}

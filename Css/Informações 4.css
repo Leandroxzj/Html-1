@@ -1,0 +1,94 @@
+.HIGH-informao {
+  overflow: hidden;
+  background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0) 47%,
+      rgba(0, 0, 0, 0.5) 92%
+    ),
+    linear-gradient(
+      0deg,
+      rgba(163, 236, 252, 1) 0%,
+      rgba(163, 236, 252, 1) 100%
+    );
+  width: 100%;
+  min-width: 974px;
+  min-height: 359px;
+  position: relative;
+}
+
+.HIGH-informao .line {
+  position: absolute;
+  top: 41px;
+  left: 83px;
+  width: 858px;
+  height: 2px;
+  object-fit: cover;
+}
+
+.HIGH-informao .rectangle {
+  position: absolute;
+  top: -2212px;
+  left: -19047px;
+  width: 104px;
+  height: 133px;
+}
+
+.HIGH-informao .img {
+  position: absolute;
+  top: -2165px;
+  left: -18615px;
+  width: 81px;
+  height: 68px;
+}
+
+.HIGH-informao .rectangle-2 {
+  position: absolute;
+  top: -2165px;
+  left: -18577px;
+  width: 140px;
+  height: 227px;
+}
+
+.HIGH-informao .rectangle-3 {
+  position: absolute;
+  top: -2116px;
+  left: -19018px;
+  width: 59px;
+  height: 75px;
+}
+
+.HIGH-informao .right-arrow {
+  position: absolute;
+  top: 30px;
+  left: 24px;
+  width: 24px;
+  height: 24px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.HIGH-informao .div {
+  position: absolute;
+  top: 54px;
+  left: 24px;
+  width: 933px;
+  height: 280px;
+  background-color: #c2e5f24a;
+  border-radius: 20px;
+  border: 3px solid;
+  border-color: var(--x-3);
+}
+
+.HIGH-informao .roma-uma-cidade-que {
+  position: absolute;
+  top: 75px;
+  left: 73px;
+  width: 855px;
+  font-family: var(--5-font-family);
+  font-weight: var(--5-font-weight);
+  color: #000000;
+  font-size: var(--5-font-size);
+  letter-spacing: var(--5-letter-spacing);
+  line-height: var(--5-line-height);
+  font-style: var(--5-font-style);
+}

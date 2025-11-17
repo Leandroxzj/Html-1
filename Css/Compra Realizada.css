@@ -1,0 +1,41 @@
+.high-compra {
+  border: 3px solid;
+  border-color: #ffffff;
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 71%,
+      rgba(0, 0, 0, 0.7) 96%
+    ), linear-gradient(0deg, rgba(7, 178, 217, 1) 0%, rgba(7, 178, 217, 1) 100%);
+  width: 100%;
+  min-width: 550px;
+  min-height: 202px;
+  position: relative;
+}
+
+.high-compra .rectangle {
+  position: absolute;
+  top: 18px;
+  left: 20px;
+  width: 510px;
+  height: 170px;
+  background-color: #c2e5f2e6;
+  border-radius: 30px;
+  border: 3px solid;
+  border-color: var(--x-3);
+}
+
+.high-compra .text-wrapper {
+  position: absolute;
+  top: 73px;
+  left: 132px;
+  width: 286px;
+  font-family: var(--3-font-family);
+  font-weight: var(--3-font-weight);
+  color: #000000;
+  font-size: var(--3-font-size);
+  text-align: center;
+  letter-spacing: var(--3-letter-spacing);
+  line-height: var(--3-line-height);
+  white-space: nowrap;
+  font-style: var(--3-font-style);
+}

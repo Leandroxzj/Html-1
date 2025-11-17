@@ -1,0 +1,40 @@
+.HIGH-comentario {
+  border: 3px solid;
+  border-color: #ffffff;
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(0, 0, 0, 0.7) 96%
+    ), linear-gradient(0deg, rgba(7, 178, 217, 1) 0%, rgba(7, 178, 217, 1) 100%);
+  width: 100%;
+  min-width: 322px;
+  min-height: 369px;
+  position: relative;
+}
+
+.HIGH-comentario .rectangle {
+  position: absolute;
+  top: 21px;
+  left: 15px;
+  width: 292px;
+  height: 327px;
+  background-color: #c2e5f2e6;
+  border-radius: 30px;
+  border: 3px solid;
+  border-color: var(--x-3);
+}
+
+.HIGH-comentario .experi-ncia-incr-vel {
+  position: absolute;
+  top: 41px;
+  left: 36px;
+  width: 251px;
+  font-family: var(--4-font-family);
+  font-weight: var(--4-font-weight);
+  color: #000000;
+  font-size: var(--4-font-size);
+  text-align: center;
+  letter-spacing: var(--4-letter-spacing);
+  line-height: var(--4-line-height);
+  font-style: var(--4-font-style);
+}
